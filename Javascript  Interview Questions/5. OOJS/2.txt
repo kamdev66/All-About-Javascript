@@ -1,0 +1,2 @@
+--------------What is "this" object-------------------
+:- "this" refers to the current object.
